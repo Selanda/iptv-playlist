@@ -198,13 +198,13 @@ https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
 http://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8?tc=1&exp=1442928477102&rn=2594.9674072588814&ct=c&oid=2118d9222a87420ab69223af9cfa0a0f&eid=KABCwatch&ad=watchkabclive&ad.kv=station%2Ckabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=14678b39de25e111751da0c0ae3dea632901f11351c35ad6c09aed501512fafe&ad.cping=1&referer=abc7.com
 #EXTINF:-1 tv_logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="US - California",KNBCal 4 News - Los Angeles CA
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
-#EXTINF:-1 tv_logo="https://media.nbcmiami.com/designimages/logo_bay_2x.png" group-title="US - California",KNTV - NBC3 - Bay Area
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="US - California",KNTV - NBC3 - Bay Area
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 tv_logo="https://media.nbcmiami.com/designimages/logo_bay_2x.png" group-title="US - California",KNTV Traffic - NBC3 - Bay Area
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="US - California",KNTV Traffic - NBC3 - Bay Area
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KTLA_2016.png" group-title="US - California",KTLA 5 - Los Angeles CA
 https://dcs-live.apis.anvato.net/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-0&anvsid=i177606650-n1e220f27-e5bc-4773-9c40-fc89417fcc44&ts=1594838743&anvtrid=w65f72a9c9ec6366fb625243c4ab3b54
-#EXTINF:-1 tv_logo="https://cbsla.files.wordpress.com/2019/01/losangeles_cbs2_light.png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA
 https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8
 
 
