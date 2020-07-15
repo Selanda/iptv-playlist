@@ -507,15 +507,13 @@ http://hls.ksl.com/t/strata/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.viennava.gov/images/layout/design21/ba.jpg" group-title="US - Virginia",Town of Vienna Community Network - Vienna VA
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Screenshot_2016-05-21-15-36-09.png" group-title="US - Virginia",WVIR - NBC 29 News - Charlottesville VA
-http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8
+https://dai2-playlistserver.aws.syncbak.com/playlist/17845279/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzg0NTI3OSIsIm1kNSI6IjE2MzQ1MGZhOTJkMmM3M2NjMGJkN2EyOGZmMTMxNGMyIiwiaWF0IjoxNTczMDU5NjU4LCJpc3MiOiJTeW5jYmFrIChURykifQ.Tvg7UfuwK64I4v78S9qUIrCPb7vnk0vCPEvK9NCeirE
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Wwbt_news.png" group-title="US - Virginia",WWBT - NBC12 - Richmond
 https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 
 
 
 #WASHINGTON
-#EXTINF:-1,tvg-logo="http://www.seattlechannel.org/images/seattlechannel/seattleChannel_logo.png" group-title="US - Washington",Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/5106c219/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="US - Washington",TVW - House of Representatives Channel
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="US - Washington",TVW - Senate Channel
