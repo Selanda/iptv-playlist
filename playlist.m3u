@@ -185,35 +185,27 @@ http://content.uplynk.com/channel/8e7504962da04956953c874a7ad11c6b.m3u8
 
 #ALASKA
 #EXTINF:-1,tvg-logo="https://2pouqfl1mif26n3ql1jslyj1-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/360-north-logo-flat_retina.png" group-title="US - Alaska",360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
 
 
 
 #ARIZONA
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/1200px-KPNX_12_logo.svg.png" group-title="US - Arizona",KPNX - NBC12 - Phoenix
-https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
 
 
 
 #CALIFORNIA
-#EXTINF:-1 group-title="US - California",Camera - San Francisco Cam
-http://video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News - Los Angeles CA
 http://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8?tc=1&exp=1442928477102&rn=2594.9674072588814&ct=c&oid=2118d9222a87420ab69223af9cfa0a0f&eid=KABCwatch&ad=watchkabclive&ad.kv=station%2Ckabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=14678b39de25e111751da0c0ae3dea632901f11351c35ad6c09aed501512fafe&ad.cping=1&referer=abc7.com
 #EXTINF:-1 tv_logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="US - California",KNBCal 4 News - Los Angeles CA
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
-#EXTINF:-1 tv_logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="US - California",KNBCcl 4 News - Los Angeles CA
-https://knbclive-f.akamaihd.net/i/knbcc1_1@69052/master.m3u8
 #EXTINF:-1 tv_logo="https://media.nbcmiami.com/designimages/logo_bay_2x.png" group-title="US - California",KNTV - NBC3 - Bay Area
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://media.nbcmiami.com/designimages/logo_bay_2x.png" group-title="US - California",KNTV Traffic - NBC3 - Bay Area
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KTLA_2016.png" group-title="US - California",KTLA 5 - Los Angeles CA
-https://player-api.new.livestream.com/accounts/9262780/events/3189705/broadcasts/181106442.secure.m3u8
-#EXTINF:-1 tv_logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KTLA_2016.png" group-title="US - California",KTLA 5 Breaking - Los Angeles CA
-https://ktlatribune-lh.akamaihd.net/i/KTLABreakingOne_1@109091/index_1900_av-p.m3u8
+https://dcs-live.apis.anvato.net/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-0&anvsid=i177606650-n1e220f27-e5bc-4773-9c40-fc89417fcc44&ts=1594838743&anvtrid=w65f72a9c9ec6366fb625243c4ab3b54
 #EXTINF:-1 tv_logo="https://cbsla.files.wordpress.com/2019/01/losangeles_cbs2_light.png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA
-https://dcs-live.apis.anvato.net/server/play/Q0B5nrZHVNWRh87M/3530000/prog.m3u8
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8
 
 
 
