@@ -348,30 +348,24 @@ https://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
 
 
 #MARYLAND
-#EXTINF:-1,group-title="US - Maryland",Camera - Baltimore - WMAR I-695 @ York Rd
-rtmp://170.93.143.139:1935/rtplive/9cff12c400ef00ac004be2369e235daa
-#EXTINF:-1,group-title="US - Maryland",Camera - Baltimore - WMAR I-83 @ Shawan
-rtmp://170.93.143.139:1935/rtplive/5cff0d8f00d900bc004be2369e235daa
 #EXTINF:-1,tvg-logo="https://www.crwflags.com/fotw/images/u/us-md-bow.gif" group-title="US - Maryland",Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.greenbeltmd.gov/images/InfoAdvanced/52/municipal%20Access.jpg" group-title="US - Maryland",Greenbelt Municipal Access
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+https://granicusliveus10-a.akamaihd.net/greenbeltmd/G0610_001/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png" group-title="US - Maryland",Laurel TV
-https://cs.ebmcdn.net/eastbay-live-hs-1/laurel/smil:laurel.smil/playlist.m3u8
+http://reflect-laurel-live.cablecast.tv/live/live.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George%2527s_County_Public_Schools_Logo.svg" group-title="US - Maryland",Prince George's County Public Schools
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
 
 
 #MASSACHUSETTS
-#EXTINF:-1 group-title="US - Massachusetts",Camera - Boston Cam
-http://video3.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.catholictv.org/sites/default/files/uploads/u23/square_CatholicTVMASS_0.png" group-title="US - Massachusetts",Catholic TV - 268CTV - Watertown MA
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCTV Community - 9CTV - East Bridgewater MA
 https://t06132-lh.akamaihd.net/i/t06132_1_1@515776/index_1_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCTV Educational - 98CTV - East Bridgewater MA
-https://t06132-lh.akamaihd.net/i/t06132_2_1@515778/index_1_av-p.m3u8
+https://t06132-lh.akamaihd.net/i/t06132_2_1@515777/index_1_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCTV Government - 6CTV - East Bridgewater MA
 https://t06132-lh.akamaihd.net/i/t06132_3_1@515778/index_1_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://mmcnews.files.wordpress.com/2014/05/fox_25_wfxt_boston.png" group-title="US - Massachusetts",WFXT - FOX25 - Boston MA
@@ -392,8 +386,6 @@ http://live.mcn6.org:8180/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
 
 #MISSISSIPPI
-#EXTINF:-1,tvg-logo="http://media.heartlandtv.com/images/12654238_G1.jpg" group-title="US - Mississippi",WTVA News 9 - ABC - NBC - Tupelo MS
-https://fuel-streaming-prod01.fuelmedia.io/v1/sep/a7d1dd4f-d66f-45d3-92c9-c516a0aaf3ba/600K360AWS/SM/content.m3u8
 #EXTINF:-1,tvg-logo="https://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="US - Mississippi",WXXV25 - NBC25 - FOX25 - Gulf Coast CW - Gulfport MS
 https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 
