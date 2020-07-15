@@ -220,6 +220,8 @@ https://dcs-live.apis.anvato.net/server/play/Q0B5nrZHVNWRh87M/3530000/prog.m3u8
 #CONNECTICUT
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/WVIT_2009_Logo.png" group-title="US - Connecticut",WVIT - NBC 30 News - Hartford CT
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - Connecticut",News12 Connecticut - N12CH
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 
 
 
@@ -408,50 +410,30 @@ http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 
 
 #NEW YORK
-#EXTINF:-1,group-title="US - New York",Camera - NYC - Brooklyn Bridge
-http://video3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - Manhattan Skyline
-http://video3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - Skyline
-http://video3.earthcam.com/fecnetwork/4544.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - Times Square Street
-http://video3.earthcam.com/fecnetwork/hdtimes11.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - TS 47th & Broadway
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - TS Crossroads
-http://video3.earthcam.com/fecnetwork/4717.flv/playlist.m3u8
-#EXTINF:-1,group-title="US - New York",Camera - NYC - TS South View
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://static-media.streema.com/media/cache/fb/32/fb32beec94bc5083a76429b012a886da.jpg" group-title="US - New York",WNYZ Korea 87.7 FM - 6 LP - New York City
 rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:-1,tvg-logo="http://www.ecmc.edu/wp-content/uploads/2017/09/ecmc_be_well_buffalo.jpg" group-title="US - New York",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/FiOS1_logo.png" group-title="US - New York",FiOS1 News Long Island
-https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_b159ee77/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/FiOS1_logo.png" group-title="US - New York",FiOS1 News Lower Hudson Valley
-https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
-#EXTINF:-1,tvg-logo="http://www.ryetv.org/community_v2/images/ryetv-logo.gif" group-title="US - New York",RyeTV - Rye
-https://stream.swagit.com/live-edge/ryeny/smil:std-4x3-2-a/chunklist_w1569234221_b512000.m3u8
-#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Brooklyn - N12KN - New York City
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
-#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Hudson Valley Weather & Traffic - N12TW_WC - New York City
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
-#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Long Island - N12LI_WEST - New York City
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
-#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Bronx - N12BX -New York City
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Brooklyn - N12KH - New York City
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Bronx - N12XH -New York City
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Hudson Valley - N12HH - New York City
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8 
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Long Island - N12LH - New York City
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Westchester - N12WH - New York City
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ.jpg" group-title="US - New York",WABC 7 News - New York City
 http://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCwatch.m3u8?tc=1&exp=1437385690317&rn=220.514381547402&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad=watchwabclive&ad.kv=station%2Cwabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=4aa17e61f18f51d6a846ede2a99053837f71b8c68a353895c6070295a05645be&ad.cping=1
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/672074579364478976/Yzn3u93X_400x400.jpg" group-title="US - New York",WHAM - ABC 13 News - Rochester NY
 http://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (master)
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (alt)
-https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (index_1286_av-p)
 http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/index_1286_av-p.m3u8
-#EXTINF:-1,tvg-logo="http://wnyt.com/2016/images/generic-ap-2013.jpg" group-title="US - New York",WNYT - NBC13 - Albany
-https://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (alt)
+https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/index_1286_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS  6 News - Albany NY
 http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1,tvg-logo="http://nyxt.nyc/img/NYXT-header-logo.png" group-title="US - New York",NYXT - New York City
@@ -460,8 +442,8 @@ https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 
 
 #NEW JERSEY
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/FiOS1_logo.png" group-title="US - New Jersey",FiOS1 News New Jersey
-https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_if6bcg01/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New Jersey",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 
 
 
