@@ -393,7 +393,7 @@ http://live.mcn6.org:8180/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
 #MISSISSIPPI
 #EXTINF:-1,tvg-logo="http://media.heartlandtv.com/images/12654238_G1.jpg" group-title="US - Mississippi",WTVA News 9 - ABC - NBC - Tupelo MS
-http://wtva-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+https://fuel-streaming-prod01.fuelmedia.io/v1/sep/a7d1dd4f-d66f-45d3-92c9-c516a0aaf3ba/600K360AWS/SM/content.m3u8
 #EXTINF:-1,tvg-logo="https://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="US - Mississippi",WXXV25 - NBC25 - FOX25 - Gulf Coast CW - Gulfport MS
 https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 
