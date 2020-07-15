@@ -482,8 +482,6 @@ https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w25666555
 
 
 #SOUTH CAROLINA
-#EXTINF:-1 group-title="US - South Carolina",Camera - Myrtle Beach Cam
-http://video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8
 #EXTINF:-1 group-title="US - South Carolina",Beach TV - Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 group-title="US - South Carolina",Beach TV - Pawleys Island
@@ -492,22 +490,14 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 
 #TENNESSEE
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/WDEFTV.jpg" group-title="US - Tennessee",WDEF - CBS News 12 - Chattanooga TN
-http://wdef-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 
 
 #TEXAS
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Kweslogo.png" group-title="US - Texas",KWES - NewsWest 9 - Big Spring
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/KRGV_5.jpg" group-title="US - Texas",KRGV - ABC 5 News - Weslaco
-http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 
 
 #UTAH
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/New_KTVX_Logo.png" group-title="US - Utah",KTVX - CBS 4 News - Salt Lake City UT
-http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:-1,tvg-logo="http://www.v6.media/images/Header/V6-logo.png" group-title="US - Utah",VTV Channel 6 - 6CTV - Vernal UT
 http://hls.ksl.com/t/strata/playlist.m3u8
 
