@@ -286,22 +286,18 @@ http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
 
 
 #GEORGIA
-#EXTINF:-1,tvg-logo="http://www.wbpi.org/images/logo.png" group-title="US - Georgia",WBPI TV49 - Augusta GA
-http://fss28.streamhoster.com/lv_rod_tvf1/lv_rod_tvf1-wbpi.smil/master.m3u8
 #EXTINF:-1,tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="US - Georgia",WEQT La Mega Mundial - Atlanta GA
 rtmp://video.lamegamundial.com/lamegamundial/lamegamundial2
 #EXTINF:-1,tvg-logo="http://www.wbpi.org/images/logo.png" group-title="US - Georgia",WBPI Watchmen Broadcasting - Augusta GA
-http://fss28.streamhoster.com/lv_rod_tvf1/lv_rod_tvf1-wbpi.smil/master.m3u8
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/chunklist_b2000000.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/WTHC42.png" group-title="US - Georgia",WTHC - Atlanta GA
 rtmp://media4.tripsmarter.com/LiveTV/ATLHD
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Wxia11alive.png" group-title="US - Georgia",WXIA - NBC11 - Atlanta GA
-https://wxia-lh.akamaihd.net/i/WXIALive_1@342562/master.m3u8 
+https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8
 
 
 
 #HAWAII
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/KHNL_Logo.png" group-title="US - Hawaii",KHNL - NBC News Now 13 - Honolulu HI
-http://khnl-lh.akamaihd.net/i/KHNL_824@54739/master.m3u8
 
 
 
@@ -318,18 +314,12 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_2000_av-p.m3u8
 
 
 #ILLINOIS
-#EXTINF:-1 group-title="US - Illinois",Camera - Chicago Cam
-http://video3.earthcam.com/fecnetwork/5187.flv/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/220px-WGN_9_logo.svg.png" group-title="US - Illinois",WGN9 - Chicago IL
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
 #EXTINF:-1,tvg-logo="http://martinsinternational.com/wp-content/uploads/2017/03/lYBxo2dJ.jpg" group-title="US - Illinois",WMAQ - NBC5 - Chicago IL
 https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 
 
 
 #INDIANA
-#EXTINF:-1,tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="US - Indiana",WTTV4 - CBS4 - Indianapolis IN
-http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 
 
 
