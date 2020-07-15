@@ -228,10 +228,6 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MIL
 #DISTRICT OF COLUMBIA
 #EXTINF:-1,tvg-logo="https://oct.dc.gov/sites/default/files/styles/callout_home_graphic/public/dc/sites/office%20of%20cable%20television/featured_content/images/DCN.gif?itok=otPEYypb" group-title="US - District of Columbia",District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,tvg-logo="https://entertainment.dc.gov/sites/default/files/styles/callout_home_graphic/public/dc/sites/entertainment/featured_content/images/dkn2_0.jpg" group-title="US - District of Columbia",District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,tvg-logo="https://media.fox5dc.com/lakana-fox-global/theme/images/wttg/logo-fox-5-washington-dc-wttg-alt.png" group-title="US - District of Columbia",FOX5
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/WZDC44.png" group-title="US - District of Columbia",Telemundo Washginton
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - District of Columbia",WRC - NBC4
@@ -242,46 +238,28 @@ http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 
 
 #FLORIDA
-#EXTINF:-1 group-title="US - Florida",Camera - Miami - Biscayne Bay Cam
-http://video3.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8
-#EXTINF:-1 group-title="US - Florida",Camera - Miami - Downtown Miami Cam
-http://video3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8
 #EXTINF:-1 group-title="US - Florida",Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.miamitvchannel.com/images/LOGOMIAMITVNEW300.png" group-title="US - Florida",MiamiTV - Miami FL
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://media.nbcmiami.com/images/653*367/blue+nbc+6+logo.jpg" group-title="US - Florida",NBC6 - Miami FL
-http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/index_1286_av-p.m3u8
-#EXTINF:-1,tvg-logo="http://www.seminolecountyfl.gov/_resources/images/logo-seminole.jpg" group-title="US - Florida",Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1283125776/TFClogoforTwitter_400x400.jpg" group-title="US - Florida",The Florida Channel
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/WCAY34.png" group-title="US - Florida",WCAY KeyTV 36 - W34AD - Key West FL
 rtmp://media4.tripsmarter.com/LiveTV/KTVHD
 #EXTINF:-1,tvg-logo="http://www.destinationnetwork.com/images/channel_logos_large/beachtv.png" group-title="US - Florida",WDES BeachTV 32 - Miramar Beach FL
 rtmp://media4.tripsmarter.com/LiveTV/DTVHD
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WFOX02 - CBS47 - FOX30 - Jacksonville FL
-http://svc-lvanvato-cxtv-wfox.cmgvideo.com/wfox02/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/WFOX-TV_logo.png" group-title="US - Florida",WFOX - FOX30 - Jacksonville FL
-http://svc-lvanvato-cxtv-wfox.cmgvideo.com/wfox/master.m3u8
 #EXTINF:-1,tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-16x9.jpg" group-title="US - Florida",WFTV - ABC9 - Orlando FL
-https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+https://dkctmhl08vl03.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
 #EXTINF:-1,tvg-logo="http://www.whbr.org/uploads/7/5/4/8/7548146/7596942_orig.jpg" group-title="US - Florida",WHBR CTN33 - Pensacola FL
-http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8
+http://ctn.getstreamhosting.com:1935/live/WHBRstream/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WJAX - CBS47 - Jacksonville FL
 https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/master.m3u8
 #EXTINF:-1,tvg-logo="http://www.destinationnetwork.com/images/channel_logos_large/beachtv.png" group-title="US - Florida",WPCT BeachTV 46 - Panama City Beach FL
 rtmp://media4.tripsmarter.com/LiveTV/BTVHD
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Wpec_hd_2008.png" group-title="US - Florida",WPEC - CBS 12.2 Weather - West Palm Beach FL
-http://ms-9.sbgnet.com/liveevents/smil:wpecevent.smil/master.m3u8
-#EXTINF:-1,tvg-logo="https://assets.scrippsdigital.com/cms/images/color_schemes/wptv/full-mini--100.png" group-title="US - Florida",WPTV - NBC News Channel 5 - West Palm Beach FL
-http://spswptv-i.akamaihd.net/hls/live/203384/anvato/master.m3u8
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 #EXTINF:-1,tvg-logo="https://i1.wp.com/www.sfltv.com/wp783/wp-content/uploads/vlcsnap-2013-10-09-14h06m11s132.jpg" group-title="US - Florida",WSVN - FOX7 - Miami FL
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/649249961905819652/rJOOCtQc_400x400.png" group-title="US - Florida",WTGL Good Life 45 - Orlando FL
 http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://media.nbcmiami.com/designimages/NBC_OTS_MIAMI.png" group-title="US - Florida",WTVJ - NBC 6 News - Miami FL
-http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
 
 
 
