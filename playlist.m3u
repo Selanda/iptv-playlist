@@ -440,10 +440,6 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/playlist.m3u8
 #SPORTS
 #EXTINF:-1,tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="US Broadcast - Sports",CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/-VMwCqWY07lk/AAAAAAAAAAI/AAAAAAAAbTg/kBy_m8cb40M/photo.jpg" group-title="US Broadcast - Sports",Golf Channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:-1,tvg-logo="https://www.nbcsports.com/northwest/sites/csnnw/files/styles/article_hero_image/public/2016/05/31/golf_flat.jpg" group-title="US Broadcast - Sports",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="US Broadcast - Sports",Olympic Channel 1
 https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="US Broadcast - Sports",Olympic Channel 2
