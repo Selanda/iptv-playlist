@@ -149,8 +149,10 @@ https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
 
 
 #CALIFORNIA
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News - Los Angeles CA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News - Los Angeles CA (Watch)
 http://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8?tc=1&exp=1442928477102&rn=2594.9674072588814&ct=c&oid=2118d9222a87420ab69223af9cfa0a0f&eid=KABCwatch&ad=watchkabclive&ad.kv=station%2Ckabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=14678b39de25e111751da0c0ae3dea632901f11351c35ad6c09aed501512fafe&ad.cping=1&referer=abc7.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News - Los Angeles CA (Live1)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCLive1.m3u8
 #EXTINF:-1 tv_logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="US - California",KNBCal 4 News - Los Angeles CA
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 #EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="US - California",KNTV - NBC3 - Bay Area
