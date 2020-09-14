@@ -81,6 +81,8 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="US Broadcast",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2014/04/07/53b6d151-9eb7-4ed0-9f84-5debe0b20625/thumbnail/1200x630/622b40305a25b1bdeda1ffe133021549/cbsnews-logo-generic-640x360.jpg" group-title="US Broadcast",CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,tvg-logo="https://d26ynq6n1aj22b.cloudfront.net/images/Thumb_Channel-01.png" group-title="US Broadcast",CNN NewsSource HD International 1
 https://cnnnewsource2-i.akamaihd.net/hls/live/750321/international/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD1
@@ -162,7 +164,7 @@ https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="US - California",KNTV Traffic - NBC3 - Bay Area
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KTLA_2016.png" group-title="US - California",KTLA 5 - Los Angeles CA
-https://dcs-live.apis.anvato.net/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-0&anvsid=i177606650-n1e220f27-e5bc-4773-9c40-fc89417fcc44&ts=1594838743&anvtrid=w65f72a9c9ec6366fb625243c4ab3b54
+https://dcs-live.apis.anvato.net/server/play/qAoz51XhK6WKTa10/rendition.m3u8?track=video-2&anvsid=i177602771-n869ceaab-9fb6-417d-a84d-488c0aa86406&ts=1599616815&anvtrid=w0f4b69ac61eda30b27cbca71b2930c4
 #EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA
 https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8
 
@@ -339,8 +341,10 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index
 http://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCwatch.m3u8?tc=1&exp=1437385690317&rn=220.514381547402&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad=watchwabclive&ad.kv=station%2Cwabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=4aa17e61f18f51d6a846ede2a99053837f71b8c68a353895c6070295a05645be&ad.cping=1
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/672074579364478976/Yzn3u93X_400x400.jpg" group-title="US - New York",WHAM - ABC 13 News - Rochester NY
 http://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
-#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York
+#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (cbsn-ny-prod)
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (master)
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (master)
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (index_1286_av-p)
