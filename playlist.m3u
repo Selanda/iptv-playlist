@@ -87,26 +87,26 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://cnnnewsource2-i.akamaihd.net/hls/live/750321/international/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD1
 https://cnnnewsource-i.akamaihd.net/hls/live/258566/CNNNewsource6/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD2
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD2 - GRID2
 https://cnnnewsource-i.akamaihd.net/hls/live/258567/CNNNewsource7/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD1
-https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD2
-https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD3
-https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD4
-https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD1
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD1 - GRID1
 https://cnnnewsource-i.akamaihd.net/hls/live/252340/CNNNewsource1/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD2
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD2 - GRID2
 https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD3
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD3 - GRID3
 https://cnnnewsource-i.akamaihd.net/hls/live/258563/CNNNewsource3/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD4
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD4 - GRID4
 https://cnnnewsource-i.akamaihd.net/hls/live/258564/CNNNewsource4/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD5
 https://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD1 - GRID2 alt
+https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD2 - GRID7
+https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD3 - GRID6
+https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource INS HD4 - GRID4 alt
+https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-Mr1T5HNyW4E/AAAAAAAAAAI/AAAAAAAAAAA/4F52PjgyADc/s900-c-k-no/photo.jpg" group-title="US Broadcast", C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-Mr1T5HNyW4E/AAAAAAAAAAI/AAAAAAAAAAA/4F52PjgyADc/s900-c-k-no/photo.jpg" group-title="US Broadcast", C-SPAN 2
