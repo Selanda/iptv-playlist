@@ -543,6 +543,10 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_256_av-p.m3u8
 #EXTINF:-1,tvg_logo="https://www.cbc.ca/mediacentre/content/images/620x296-CBC_News_Network.jpg" group-title="Canada",CBC News Network (2500kbps)
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:-1,tvg_logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/gn_live_share.jpg" group-title="Canada",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1,tvg_logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/gn_live_share.jpg" group-title="Canada",Global News (Livestream 2)
+https://live.corusdigitaldev.com/groupb/live/7ae569ae-95d8-4927-b2d6-d0c897c346ff/live.isml/.m3u8
 #EXTINF:-1,tvg_logo="https://www.livenewsmag.com/wp-content/uploads/2016/10/ICi-RDI-News-TV-2.jpg" group-title="Canada",ICI-RDI (French CBC News Network)
 https://srclive-lh.akamaihd.net/i/web207_1@364878/master.m3u8
 #EXTINF:-1,tvg_logo="http://s20549.pcdn.co/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="Canada",CPAC English
