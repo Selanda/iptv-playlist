@@ -165,8 +165,10 @@ https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 tv_logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KTLA_2016.png" group-title="US - California",KTLA 5 - Los Angeles CA
 https://dcs-live.apis.anvato.net/server/play/qAoz51XhK6WKTa10/rendition.m3u8?track=video-2&anvsid=i177602771-n869ceaab-9fb6-417d-a84d-488c0aa86406&ts=1599616815&anvtrid=w0f4b69ac61eda30b27cbca71b2930c4
-#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA (cedexis)
 https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="US - California",KCAL 9 - CBS2 - Los Angeles CA (dai.google)
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/c34cf964-0199-4514-ad6b-8169b69a47d8:CHS/variant/3763a6eceffa073cd48a6ba274c16da8/bandwidth/1752960.m3u8
 
 
 
