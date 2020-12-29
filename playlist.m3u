@@ -189,6 +189,8 @@ https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/bl5uyiwjFLglXlq78BytoifgbHIH2IUDBCySwJhYAzzXB2vI2NisPUtlkMyDOrWc6A=w300" group-title="US - District of Columbia",WUSA9 - CBS
 http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1,tvg-logo="https://www.senate.gov/resources/images/senate_logo.png" group-title="US - District of Columbia",US Senate Floor
+https://granicusliveus1-a.akamaihd.net/senate/G0988_005/chunklist.m3u8
 
 
 
