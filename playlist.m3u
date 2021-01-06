@@ -85,9 +85,9 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,tvg-logo="https://d26ynq6n1aj22b.cloudfront.net/images/Thumb_Channel-01.png" group-title="US Broadcast",CNN NewsSource HD International 1
 https://cnnnewsource2-i.akamaihd.net/hls/live/750321/international/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD1 - GRID1
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD1
 https://cnnnewsource-i.akamaihd.net/hls/live/258566/CNNNewsource6/master.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD2 - GRID2
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource HD2
 https://cnnnewsource-i.akamaihd.net/hls/live/258567/CNNNewsource7/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US Broadcast",CNN NewsSource SD1 - GRID1
 https://cnnnewsource-i.akamaihd.net/hls/live/252340/CNNNewsource1/master.m3u8
