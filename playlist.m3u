@@ -151,6 +151,8 @@ https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
 
 
 #CALIFORNIA
+#EXTINF:0, tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/05/17/956d6ad6-b82a-4bfe-a721-eb0baf9f1bba/thumbnail/640x360/b65a744ffdf7907006ed492bd4a5ff6f/logo-cbsn-la-440x227.png" group-title="US - California",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News (Watch) - Los Angeles CA
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8?tc=1&exp=1442928477102&rn=2594.9674072588814&ct=c&oid=2118d9222a87420ab69223af9cfa0a0f&eid=KABCwatch&ad=watchkabclive&ad.kv=station%2Ckabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=14678b39de25e111751da0c0ae3dea632901f11351c35ad6c09aed501512fafe&ad.cping=1&referer=abc7.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_400x400.jpg" group-title="US - California",KABC 7 News  (Live1) - Los Angeles CA
