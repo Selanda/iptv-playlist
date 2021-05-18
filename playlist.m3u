@@ -401,8 +401,6 @@ https://s18.ipcamlive.com/streams/125f0859ad57ded9a/stream.m3u8
 https://s57.ipcamlive.com/streams/395f0f3535c6e2df7/stream.m3u8
 #EXTINF:-1,tvg-logo="https://pcntv.com/wp-content/uploads/2018/11/PCN-App-Icon-Rounded-114.png" group-title="US - Pennsylvania",PCN TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/261957/Channel2/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WFMZ-TV_logo.png" group-title="US - Pennsylvania",WFMZ 69.1 News - Allentown PA
-https://player-api.new.livestream.com/accounts/14384745/events/4211587/broadcasts/181101127.secure.m3u8
 #EXTINF:-1,tvg-logo="http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/resources/inside_station/station_info/8791045_448x252.jpg" group-title="US - Pennsylvania",WPVI - ABC 6 Action News - Philadelphia PA
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8?tc=1&exp=1443292500900&rn=4199.500466690588&ct=c&oid=10b98e7c615f43a98b180d51797e74aa&eid=WPVIwatch&ad=watchwpvilive&ad.kv=station%2Cwpvi&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=a5294f2323eeb32af9e0c7e413bfd4981acd62884aa10251ffe097aa764f005b&ad.cping=1&referer=6abc.com
 #EXTINF:-1,tvg-logo="https://i.vimeocdn.com/portrait/1608546_640x640" group-title="US - Pennsylvania",Temple University TV
