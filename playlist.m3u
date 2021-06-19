@@ -336,7 +336,7 @@ rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:-1,tvg-logo="http://www.ecmc.edu/wp-content/uploads/2017/09/ecmc_be_well_buffalo.jpg" group-title="US - New York",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/WNYW5.png" group-title="US - New York",FOX 5 New York - New York City
-https://dcs-live.apis.anvato.net/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-3&anvsid=i177602767-n3f1fc422-0c90-44ab-8465-11c402e8d380&ts=1616592957&anvtrid=w9e80f0d57ac7d8014e955de116706db
+https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884
 #EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Brooklyn - N12KH - New York City
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
 #EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Bronx - N12XH -New York City
@@ -362,7 +362,7 @@ http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/index_1286_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (alt)
 https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/index_1286_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11Logo.png" group-title="US - New York",WPIX - PIX11 Live - New York City
-https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602767-nfaedc432-0db2-4268-bc7a-5d57975ffc01&ts=1616593213&anvtrid=w9e80f0d57dc8491325cb226d379e1a8
+https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884&ts=1624115491&anvtrid=w259626d6f6c85171bc7d44630ed38d7
 #EXTINF:-1,tvg-logo="https://benkallos.com/sites/default/files/styles/max_325x325/public/press_clip_source/Pix11News.png" group-title="US - New York",WPIX - PIX11 Plus - New York City
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS 6 News - Albany NY
