@@ -336,7 +336,7 @@ rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:-1,tvg-logo="http://www.ecmc.edu/wp-content/uploads/2017/09/ecmc_be_well_buffalo.jpg" group-title="US - New York",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/WNYW5.png" group-title="US - New York",FOX 5 New York - New York City
-https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884
+https://dcs-live.apis.anvato.net/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-2&anvsid=i177602771-ne479d675-244e-4883-bec9-5f5dc8a58edc
 #EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Brooklyn - N12KH - New York City
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
 #EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - New York",News12 Bronx - N12XH -New York City
