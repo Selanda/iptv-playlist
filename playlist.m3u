@@ -261,8 +261,14 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_2000_av-p.m3u8
 
 
 #ILLINOIS
-#EXTINF:-1,tvg-logo="http://martinsinternational.com/wp-content/uploads/2017/03/lYBxo2dJ.jpg" group-title="US - Illinois",WMAQ - NBC5 - Chicago IL
-https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875413093248933890/S2zfrgYR_400x400.jpg" group-title="US - Illinois",WBBM - CBS2
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1,tvg-logo="https://exstreamist.com/wp-content/uploads/2018/03/Watch-WFLD-Online.jpg" group-title="US - Illinois",WFLD - FOX Chicago
+https://dcs-live-ue4.mp.lura.live/server/play/n0MeJbGTPOa5Ioz0/rendition.m3u8?track=video-0&anvsid=m177635101-n4ef296fb03b4687f9f56839455496fbb&ts=1655165330&anvtrid=a0290eb5eb3846979d2f4e9ed6f971b3
+#EXTINF:-1,tvg-logo="https://cdn.abcotvs.com/dip/images/58062_1280x720-abc7logo.jpg" group-title="US - Illinois",WLS - ABC7
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSLive1.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="US - Illinois",WMAQ - NBC5
+https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream1/master_720.m3u8
 
 
 
