@@ -369,8 +369,6 @@ https://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1,tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11Logo.png" group-title="US - New York",WPIX - PIX11 Live - New York City
 https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884&ts=1624115491&anvtrid=w259626d6f6c85171bc7d44630ed38d7
-#EXTINF:-1,tvg-logo="https://benkallos.com/sites/default/files/styles/max_325x325/public/press_clip_source/Pix11News.png" group-title="US - New York",WPIX - PIX11 Plus - New York City
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS 6 News - Albany NY
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1,tvg-logo="http://nyxt.nyc/img/NYXT-header-logo.png" group-title="US - New York",NYXT - New York City
