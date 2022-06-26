@@ -367,12 +367,6 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCwatc
 https://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
 #EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (master)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (master)
-https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (index_1286_av-p)
-http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/index_1286_av-p.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - New York",WNBC - NBC 4 News - New York City (alt)
-https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/index_1286_av-p.m3u8
 #EXTINF:-1,tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11Logo.png" group-title="US - New York",WPIX - PIX11 Live - New York City
 https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884&ts=1624115491&anvtrid=w259626d6f6c85171bc7d44630ed38d7
 #EXTINF:-1,tvg-logo="https://benkallos.com/sites/default/files/styles/max_325x325/public/press_clip_source/Pix11News.png" group-title="US - New York",WPIX - PIX11 Plus - New York City
