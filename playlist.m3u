@@ -96,19 +96,19 @@ http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6.jpeg" group-title="Broadcast News",CBSN
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 1
-https://cnnnewsource-i.akamaihd.net/hls/live/252340/CNNNewsource1/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039047/CNNNewsource1/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 2
-https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039049/CNNNewsource2/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 3
-https://cnnnewsource-i.akamaihd.net/hls/live/258563/CNNNewsource3/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039050/CNNNewsource3/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 4
-https://cnnnewsource-i.akamaihd.net/hls/live/258564/CNNNewsource4/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039051/CNNNewsource4/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 5
-https://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039052/CNNNewsource5/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 6
-https://cnnnewsource-i.akamaihd.net/hls/live/258566/CNNNewsource6/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039053/CNNNewsource6/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 7
-https://cnnnewsource-i.akamaihd.net/hls/live/258567/CNNNewsource7/master.m3u8
+https://newsource-live.warnermediacdn.com/hls/live/2039054/CNNNewsource7/master.m3u8
 #EXTINF:-1,tvg-logo="https://d26ynq6n1aj22b.cloudfront.net/images/Thumb_Channel-01.png" group-title="Broadcast News",CNN NewsSource HD International 1
 https://cnnnewsource2-i.akamaihd.net/hls/live/750321/international/master.m3u8
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource INTL Channel 1
@@ -365,14 +365,14 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCwatch.m3u8?rays=ihgfedcba&tc=1&exp=1620576857549&rn=1297847200&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad.flex=0&ad.kv=station%2Cwabc&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=96286&ad=wabc_live&ad.adUnit=/wabc/abc7ny.com/web/live-broadcast-news&ad.pp=otv-web-desktop&ad.description_url=https%3A//abc7ny.com/watch/&ad.sz=640x480&ad.ppid=42F4E84389D04842C8CBB04BE3106824&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dwabc%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dwatch%26vdm%3Dlive%26plt%3Ddesktop%26stp%3Dvdms%26swid%3D42F4E84389D04842C8CBB04BE3106824%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A//abc7ny.com/watch/%26unid%3D&sig=8fa0533946760c000af1a66f9e74dfa1bc50dfef316d69ecfdeec96881766b86
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/672074579364478976/Yzn3u93X_400x400.jpg" group-title="US - New York",WHAM - ABC 13 News - Rochester NY
 https://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
-#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (master)
+#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (master - dai.google)
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/473837cb-f983-454a-a993-e16e3b4a6b8e:CBF2/master.m3u8
+#EXTINF:-1,tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg" group-title="US - New York",CBSN New York (master - cbsn-ny.cbsnstream)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1,tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11Logo.png" group-title="US - New York",WPIX - PIX11 Live - New York City
 https://dcs-live.apis.anvato.net/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-2&anvsid=i177602771-n49b2532c-2a83-49a5-93a5-690a3540d884&ts=1624115491&anvtrid=w259626d6f6c85171bc7d44630ed38d7
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS 6 News - Albany NY
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1,tvg-logo="http://nyxt.nyc/img/NYXT-header-logo.png" group-title="US - New York",NYXT - New York City
-https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 
 
 
