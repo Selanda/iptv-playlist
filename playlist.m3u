@@ -29,27 +29,8 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www-tc.pbskids.org/kartkingdom/assets/images/kidslogo.svg" group-title="Broadcast TV",PBS Kids
 http://live-cdn.pbskids.org/out/u/est.m3u8
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",Pluto TV 24/7
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",Pluto Movies
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",Pluto Movies 2
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",Pluto TV Cars
-https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",Pluto TV Her
-https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1,tvg-logo="https://s3.amazonaws.com/pluto-assets/brand/pluto-tv-1200x630.jpg" group-title="Broadcast TV",What's On Pluto
-https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/White_sbtv_logo_Black_copy.jpg" group-title="Broadcast TV",SBTV
-https://ad-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI1LCJtZDUiOiI5NTZiM2RhZmViOTA4ZGUxZTdmMTc5NGFjYWQyYTQ5YiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.kUK2HTxg4bOFF_kcJtYni32gp3J0mJpBLD_V4apmHBo
 #EXTINF:-1,tvg-logo="http://www.marketingmag.ca/wp-content/uploads/2013/09/TSC_Logo_Primary_SM_RGB-21.jpg" group-title="Broadcast TV",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1,tvg-logo="https://lh6.googleusercontent.com/-hmy3hsRv7T0/AAAAAAAAAAI/AAAAAAAAj6E/X_aY_wYBrFg/s0-c-k-no-ns/photo.jpg" group-title="Broadcast TV",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,tvg-logo="http://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" group-title="Broadcast TV",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
 
 
 
