@@ -4,7 +4,7 @@
 
 
 
-#US NATIONAL BROADCAST
+#US National Broadcast
 #EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Eric Andre Show 24/7
@@ -17,20 +17,9 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Venture Bros. 24/7
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-#EXTINF:-1,tvg-logo="http://www1.cbn.com/sites/all/themes/cbnnewstheme/images/CBN-Logo.svg" group-title="Broadcast TV",Christian Broadcasting Network News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctn.png" group-title="Broadcast TV",Christian Television Network
-rtmp://rtmp.ottdemo.rrsat.com:1935/ctntv/ctntv1
-#EXTINF:-1,tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/7/17074538/17074538,640x360,b:3.jpg" group-title="Broadcast TV",NASA ISS HD Earth Viewing
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/2000px-NASA_TV.svg.png" group-title="Broadcast TV",NASA TV HD (Media)
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/2000px-NASA_TV.svg.png" group-title="Broadcast TV",NASA TV HD (Public-Education)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www-tc.pbskids.org/kartkingdom/assets/images/kidslogo.svg" group-title="Broadcast TV",PBS Kids
-http://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1,tvg-logo="http://www.marketingmag.ca/wp-content/uploads/2013/09/TSC_Logo_Primary_SM_RGB-21.jpg" group-title="Broadcast TV",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
 
 
 
