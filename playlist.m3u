@@ -885,3 +885,19 @@ rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:-1,tvg-id="https://media.info/i/lf/900/1516128705/1083.png" group-title="UK",Sky News (SkyDVN)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+
+
+
+
+
+
+
+#SAMSUNG_TV
+#EXTINF:-1,tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2019/06/10/81793425-57dc-4351-9e00-c2d515e0c45c/thumbnail/1920x1080/23381f26bd2fcf8910a86c6fcae5f230/logo-cbsn-1920x1080-new.jpg",group-title="Samsung TV",CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+#EXTINF:-1,Mixible
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+#EXTINF:-1,CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbssports.com%2Flive%2F&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
