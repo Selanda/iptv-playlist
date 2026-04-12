@@ -12,6 +12,9 @@
 *"Disney Streaming Services" backended by Akamai CDN, requires a widevine decryptor*
 - `dssott.com` :: requires multiple variables in the URL for widevine decryption
 
+*"Google Dynamic Ad Insertion (DIA)" stitches ads directly into live or on-demand content*
+- `dai.google.com` :: variable between `stream/` and `/master.m3u8` appears to be some kind of time-gated token
+
 # Observed Variable Requirements
 *No easily accessible documentation found for `lura.live`*
 - `lura.live` :: two values are required after `rendition.m3u8` for the stream to function

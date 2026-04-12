@@ -107,3 +107,48 @@ https://dcs-live-uc1.mp.lura.live/server/play/a08DdmrhJ14aur10/rendition.m3u8?tr
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ktvz_2010.png" group-title="US - Oregon",KTVZ - NBC21 - CW12 - Bend
 https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=0a129a617958927c5976b3d7a5f63bd4
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="Broadcast News",Bloomberg
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/af43f262-64e9-4b31-84da-bbfe109f9048:CBF2/master.m3u8
+#EXTINF:-1,tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2014/04/07/53b6d151-9eb7-4ed0-9f84-5debe0b20625/thumbnail/1200x630/622b40305a25b1bdeda1ffe133021549/cbsnews-logo-generic-640x360.jpg" group-title="Broadcast News",CBS News 24/7
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/044bb431-ad8b-46b7-9237-2322a1d7ae60:CHS/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Detroit
+https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/aff14814-924c-406e-b598-8a739c44d1ca:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Philadelphia
+https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/f667a2cc-943c-4f64-a9ab-11516176c671:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Pittsburgh
+https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/8dfd6a4b-2f7e-47c0-99a8-c649b7ddfbdb:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Texas
+https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/78f9aa80-eff7-46b1-b0a2-a640dd45f43c:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News - 48 Hours
+https://dai.google.com/linear/hls/pa/event/JUr94WL2QAiVpGNHY5n5dA/stream/b9e240a3-a3d3-46ef-9504-fce529159006:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News - The 60 Minutes Channel
+https://dai.google.com/linear/hls/pa/event/nrb-l85CR7SIr-rGXqz4zA/stream/e34d10b6-c741-48b0-aebb-1eb2a0ff974d:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Los Angeles
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/b101df53-5023-4bb1-9f77-26824387b372:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Bay Area
+https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/7c5d06b1-3369-4bd7-b652-fe9cdec3cd2e:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Sacramento
+https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/2e42fe41-e437-48ed-9417-bff36b8f7637:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Colorado
+https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/1f5b445e-7543-493d-84ac-d98d3afefbe8:DLS/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Miami
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/8ca094e7-6f90-45bc-b0bf-d82f28e2b3bc:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="http://ftpcontent4.worldnow.com/wvue/custom/2015/images/hdr_branding.png" group-title="US - Louisiana",WVUE - FOX8 - New Orleans
+https://dai.google.com/linear/hls/pa/event/8x7W24-3TcmGF_eugjY8aw/stream/3148fc45-98c3-4fe6-a648-598e166d5274:TUL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Chicago
+https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/f38ca79e-93e8-4d10-a0f1-394175029d34:DLS/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Baltimore
+https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/6be0a264-addd-483a-86e7-c3d124da5527:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Boston
+https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/92b79cea-ab4f-4485-94a7-ea7ced2bace7:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Minnesota
+https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/becc8fd3-7cb9-41c6-b76b-04149e1a2d72:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS 6 News - Albany NY
+https://dai.google.com/linear/hls/event/6GKh8yeyR5a90jlCBjNoWA/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News New York
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/22884915-51e0-4c1c-85f0-deba1920ed20:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Screenshot_2016-05-21-15-36-09.png" group-title="US - Virginia",WVIR - NBC 29 News - Charlottesville VA
+https://dai.google.com/linear/hls/pa/event/LQrQlk1yTCWJeEpyP8w7Bw/stream/4d6a779a-9ff6-46c0-af16-e42df8f20b5a:TUL/master.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Wwbt_news.png" group-title="US - Virginia",WWBT - NBC12 - Richmond
+https://dai.google.com/linear/hls/pa/event/oQDBWiEBRLqnp2wfr21_SQ/stream/71a065bf-2b09-470f-8c31-85d7ee8bfffd:DLS/master.m3u8
