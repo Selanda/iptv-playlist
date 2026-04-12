@@ -1,0 +1,352 @@
+#EXTM3U
+
+
+
+#_US National Broadcast
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Eric Andre Show 24/7
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Rick and Morty 24/7
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Tim and Eric 24/7
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Williams Stream 24/7
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/adult-swim1.jpg" group-title="Broadcast TV",Adult Swim - Venture Bros. 24/7
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:-1,tvg-logo="http://www.marketingmag.ca/wp-content/uploads/2013/09/TSC_Logo_Primary_SM_RGB-21.jpg" group-title="Broadcast TV",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+
+
+#_Broadcast News
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="Broadcast News",Bloomberg
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/96613e6e-c568-473f-a9a1-5c2cd9d88774:CHS/master.m3u8
+#EXTINF:-1,tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2014/04/07/53b6d151-9eb7-4ed0-9f84-5debe0b20625/thumbnail/1200x630/622b40305a25b1bdeda1ffe133021549/cbsnews-logo-generic-640x360.jpg" group-title="Broadcast News",CBS News 24/7
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/044bb431-ad8b-46b7-9237-2322a1d7ae60:CHS/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Detroit
+https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/aff14814-924c-406e-b598-8a739c44d1ca:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Philadelphia
+https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/f667a2cc-943c-4f64-a9ab-11516176c671:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Pittsburgh
+https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/8dfd6a4b-2f7e-47c0-99a8-c649b7ddfbdb:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Texas
+https://dai.google.com/linear/hls/pa/event/ogzLhRCkRbG3lFHHJwqaNw/stream/78f9aa80-eff7-46b1-b0a2-a640dd45f43c:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News - 48 Hours
+https://dai.google.com/linear/hls/pa/event/JUr94WL2QAiVpGNHY5n5dA/stream/b9e240a3-a3d3-46ef-9504-fce529159006:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News - The 60 Minutes Channel
+https://dai.google.com/linear/hls/pa/event/nrb-l85CR7SIr-rGXqz4zA/stream/e34d10b6-c741-48b0-aebb-1eb2a0ff974d:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 1
+https://newsource-live.warnermediacdn.com/hls/live/2039047/CNNNewsource1/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 2
+https://newsource-live.warnermediacdn.com/hls/live/2039049/CNNNewsource2/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 3
+https://newsource-live.warnermediacdn.com/hls/live/2039050/CNNNewsource3/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 4
+https://newsource-live.warnermediacdn.com/hls/live/2039051/CNNNewsource4/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 5
+https://newsource-live.warnermediacdn.com/hls/live/2039052/CNNNewsource5/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 6
+https://newsource-live.warnermediacdn.com/hls/live/2039053/CNNNewsource6/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource Channel 7
+https://newsource-live.warnermediacdn.com/hls/live/2039054/CNNNewsource7/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource INTL Channel 1
+https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource INTL Channel 2
+https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource INTL Channel 3
+https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNN NewsSource INTL Channel 4
+https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNNgo Broadcast
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-4huesl5vpUI/AAAAAAAAAAI/AAAAAAAAAAA/nyZezID_eq4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Broadcast News",CNNgo International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1,tvg-logo="https://assets.cnn.iprima.cz/images/logo-prima-cnn-news.svg" group-title="Broadcast News",CNN Prima News
+https://prima-ott-live-sec.ssl.cdn.cra.cz/m1K4P_FO7pcAHe2BgL7abA==,1776027639/channels/prima_cnn/playlist-live_lq.m3u8
+
+
+
+
+
+#_ALABAMA
+#EXTINF:-1,tvg-logo="http://www.alabamanews.net/content/uploads/2016/03/montgomery-seal.jpg" group-title="US - Alabama",Capital City Connection - Montgomery AL
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png" group-title="US - Florida",BeachTV Live - Gulf Coast of Floria & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+
+
+
+#_ALASKA
+#EXTINF:-1,tvg-logo="https://2pouqfl1mif26n3ql1jslyj1-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/360-north-logo-flat_retina.png" group-title="US - Alaska",KTOO 360TV
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+
+
+
+#_ARIZONA
+
+
+
+#_CALIFORNIA
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Los Angeles
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/b101df53-5023-4bb1-9f77-26824387b372:ATL/master.m3u8
+#EXTINF:-1 tv_logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="US - California",KNBCal 4 News - Los Angeles CA
+https://d368vp0qqzvkid.cloudfront.net/11603/88889710/hls/master.m3u8?ads.xumo_channelId=88889710a
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Bay Area
+https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/7c5d06b1-3369-4bd7-b652-fe9cdec3cd2e:ATL/master.m3u8
+#EXTINF:-1 tv_logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="US - California",KNTV - NBC3 - Bay Area
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Sacramento
+https://dai.google.com/linear/hls/pa/event/e7mp4YVGS7O_e7rqRNjKow/stream/2e42fe41-e437-48ed-9417-bff36b8f7637:ATL/master.m3u8
+
+
+
+#_COLORADO
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Colorado
+https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/1f5b445e-7543-493d-84ac-d98d3afefbe8:DLS/master.m3u8
+
+
+
+#_CONNECTICUT
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/WVIT_2009_Logo.png" group-title="US - Connecticut",WVIT - NBC 30 News - Hartford CT
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a
+#EXTINF:-1,tvg-logo="http://news12bx.images.worldnow.com/images/13803069_G.jpg" group-title="US - Connecticut",News12 Connecticut - N12CH
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
+
+
+
+#_DISTRICT OF COLUMBIA
+#EXTINF:-1,tvg-logo="https://oct.dc.gov/sites/default/files/styles/callout_home_graphic/public/dc/sites/office%20of%20cable%20television/featured_content/images/DCN.gif?itok=otPEYypb" group-title="US - District of Columbia",District of Columbia Network
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/WZDC44.png" group-title="US - District of Columbia",Telemundo Washginton
+https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads.xumo_channelId=88889716a
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US - District of Columbia",WRC - NBC4
+https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a
+
+
+
+#_FLORIDA
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1283125776/TFClogoforTwitter_400x400.jpg" group-title="US - Florida",The Florida Channel
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/2593311/e/1_w90jitt8/tl/viewer/st/0/t/tWpwAkkim2_Zbt3AfU0TGg/master.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/WCAY34.png" group-title="US - Florida",WCAY KeyTV 36 - W34AD - Key West FL
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png" group-title="US - Florida",BeachTV Live - Gulf Coast of Floria & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png" group-title="US - Florida",BeachTV Live - Panama City Beach & Forgotten Coast
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-16x9.jpg" group-title="US - Florida",WFTV Now - ABC9 - Orlando FL
+https://amg00327-coxmediagroup-wftvnow-ono-sz69p.amagi.tv/playlist/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-16x9.jpg" group-title="US - Florida",WFTV Breaking - ABC9 - Orlando FL
+https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-16x9.jpg" group-title="US - Florida",WFTV Weather - ABC9 - Orlando FL
+https://amg00327-coxmediagroup-wftvweather-ono-7894f.amagi.tv/playlist/amg00327-coxmediagroup-wftvweather-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Miami
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/8ca094e7-6f90-45bc-b0bf-d82f28e2b3bc:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WJAX Now - CBS47 - Jacksonville FL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxnow-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WJAX Weather - CBS47 - Jacksonville FL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxweather-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WJAX Sports - CBS47 - Jacksonville FL
+https://amg00327-amg00327c3-cox-international-2550.playouts.now.amagi.tv/playlist/amg00327-coxmediagroup-wjaxsports-coxinternational/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/200px-WJAX-TV_logo.png" group-title="US - Florida",WJAX Breaking - CBS47 - Jacksonville FL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/649249961905819652/rJOOCtQc_400x400.png" group-title="US - Florida",WTGL Good Life 45 - Orlando FL
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+
+
+
+#_GEORGIA
+#EXTINF:-1,tvg-logo="http://www.wbpi.org/images/logo.png" group-title="US - Georgia",WBPI Watchmen Broadcasting - Augusta GA
+https://2-fss-2.themediacdn.com/pl_138/205586-2129552-1/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/WTHC42.png" group-title="US - Georgia",WTHC - Atlanta GA
+https://5ed325193d4e1.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
+
+
+
+#_HAWAII
+
+
+
+#_IOWA
+
+
+
+#_IDAHO
+#EXTINF:-1,tvg-logo="https://www.ktvb.com/content/logos/mobile/ktvb.png" group-title="US - Idaho",KTVB News 7 - Boise ID
+https://video.tegnaone.com/ktvb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTVB-Production/live/index.m3u8?ads.content_id=20a27ac5-0ffa-4622-80f0-283911ad5017
+
+
+
+#_ILLINOIS
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Chicago
+https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/f38ca79e-93e8-4d10-a0f1-394175029d34:DLS/master.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.abcotvs.com/dip/images/58062_1280x720-abc7logo.jpg" group-title="US - Illinois",WLS - ABC7
+https://d1qf2trh7gg8ho.cloudfront.net/out/v1/a111463ca8b84ca682914801b14b7389/ADHOC-WLS-01-cmaf-manifest/ADHOC-WLS-01-index.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.abcotvs.com/dip/images/58062_1280x720-abc7logo.jpg" group-title="US - Illinois",WLS River Cam- ABC7
+https://d1qf2trh7gg8ho.cloudfront.net/out/v1/a111463ca8b84ca682914801b14b7389/ADHOC-WLS-01-cmaf-manifest/ADHOC-WLS-01-index_2.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="US - Illinois",WMAQ - NBC5
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a
+
+
+
+#_INDIANA
+
+
+
+#_KENTUCKY
+#EXTINF:-1,tvg-logo="https://www.whas11.com/content/logos/mobile/whas.png" group-title="US - Kentucky",WHAS 11 News - Louisville KY
+https://video.tegnaone.com/whas/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WHAS-Production/live/index.m3u8?&ads.content_id=f032343c-48e0-48b8-aa57-673c84ba2fd8
+
+
+
+#_LOUISIANA
+#EXTINF:-1,tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg" group-title="US - Louisiana",Southeastern Louisiana University TV
+https://selu-tv.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1,tvg-logo="http://ftpcontent4.worldnow.com/wvue/custom/2015/images/hdr_branding.png" group-title="US - Louisiana",WVUE - FOX8 - New Orleans
+https://dai.google.com/linear/hls/pa/event/8x7W24-3TcmGF_eugjY8aw/stream/3148fc45-98c3-4fe6-a648-598e166d5274:TUL/master.m3u8
+
+
+
+#_MARYLAND
+#EXTINF:-1,tvg-logo="http://www.greenbeltmd.gov/images/InfoAdvanced/52/municipal%20Access.jpg" group-title="US - Maryland",Greenbelt Municipal Access
+https://greenbelt-pull-secure.akamaized.net/greenbelt/stream.m3u8
+#EXTINF:-1,tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png" group-title="US - Maryland",Laurel TV
+https://reflect-laurel.cablecast.tv/live-9/live/stream-2/live.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Baltimore
+https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/6be0a264-addd-483a-86e7-c3d124da5527:ATL/master.m3u8
+
+
+
+#_MASSACHUSETTS
+#EXTINF:-1,tvg-logo="http://www.catholictv.org/sites/default/files/uploads/u23/square_CatholicTVMASS_0.png" group-title="US - Massachusetts",Catholic TV - 268CTV - Watertown MA
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCAM Public Access - 9CTV - East Bridgewater MA
+https://livestream.telvue.com/eastbridgewaterma1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCAM Educational - 98CTV - East Bridgewater MA
+https://livestream.telvue.com/eastbridgewaterma2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://eb-cam.org/wp-content/uploads/2017/08/ebcam_weblogo.png" group-title="US - Massachusetts",EBCTV Government - 6CTV - East Bridgewater MA
+https://livestream.telvue.com/eastbridgewaterma3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Boston
+https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/92b79cea-ab4f-4485-94a7-ea7ced2bace7:ATL/master.m3u8
+#EXTINF:-1,tvg-logo="https://mmcnews.files.wordpress.com/2014/05/fox_25_wfxt_boston.png" group-title="US - Massachusetts",WFXT Now - FOX25 - Boston MA
+https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/playlist/amg00327-coxmediagroup-wfxtnow-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://mmcnews.files.wordpress.com/2014/05/fox_25_wfxt_boston.png" group-title="US - Massachusetts",WFXT Breaking - FOX25 - Boston MA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wfxtbreaking-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://mmcnews.files.wordpress.com/2014/05/fox_25_wfxt_boston.png" group-title="US - Massachusetts",WFXT Weather - FOX25 - Boston MA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wfxtweather-ono/playlist.m3u8
+
+
+
+#_MICHIGAN
+
+
+
+#_MINNESOTA
+#EXTINF:-1,tvg-logo="http://www.mcn6.org/images/studiosixmplslogo_web.png" group-title="US - Minnesota",MCN6 Metro Cable - 6CTV - Minneapolis MN
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News Minnesota
+https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/becc8fd3-7cb9-41c6-b76b-04149e1a2d72:ATL/master.m3u8
+
+
+
+#_MISSISSIPPI
+#EXTINF:-1,tvg-logo="https://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="US - Mississippi",WXXV25 - NBC25 - FOX25 - Gulf Coast CW - Gulfport MS
+https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/mainManifest.m3u8
+
+
+
+#_NORTH CAROLINA
+#EXTINF:-1,tvg-logo="http://mediad.publicbroadcasting.net/p/wunc/files/styles/medium/public/201402/abc11logo.png" group-title="US - North Carolina",WTVD Live - ABC 11 News - Raleigh NC
+https://d3uxwi1y5w3gdc.cloudfront.net/out/v1/2343f4a484734f7389a0df69653ecf59/ADHOC-WTVD-02-cmaf-manifest/ADHOC-WTVD-02-index.m3u8
+#EXTINF:-1,tvg-logo="http://mediad.publicbroadcasting.net/p/wunc/files/styles/medium/public/201402/abc11logo.png" group-title="US - North Carolina",WTVD First Alert Weather - ABC 11 News - Raleigh NC
+https://d3uxwi1y5w3gdc.cloudfront.net/out/v1/2343f4a484734f7389a0df69653ecf59/ADHOC-WTVD-02-cmaf-manifest/ADHOC-WTVD-02-index_2.m3u8
+#EXTINF:-1, tv_logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="US - North Carolina",WCCB - CW - Charlotte NC
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/472443e2-70a9-4ecf-ae35-7b2b500b58b2.m3u8
+#EXTINF:-1, tv_logo="https://upload.wikimedia.org/wikipedia/en/3/32/NBC_Charlotte.png" group-title="US - North Carolina",WCNC - NBC6 - Charlotte NC
+https://video.tegnaone.com/wcnc/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC-Production/live/index.m3u8?ads.content_id=79f4b0da-fc09-4acb-8a7a-3f20b4db229e
+
+
+
+#_NEW YORK
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ.jpg" group-title="US - New York",WABC 7 News - New York City
+https://d3ip9j8kiqtf8w.cloudfront.net/out/v1/9adf1cf1816e45b2a90e98e6cf436fa8/ADHOC-WABC-02-cmaf-manifest/ADHOC-WABC-02-index.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ.jpg" group-title="US - New York",WABC 7 The Loop - New York City
+https://d3ip9j8kiqtf8w.cloudfront.net/out/v1/9adf1cf1816e45b2a90e98e6cf436fa8/ADHOC-WABC-02-cmaf-manifest/ADHOC-WABC-02-index_2.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/672074579364478976/Yzn3u93X_400x400.jpg" group-title="US - New York",WHAM - ABC 13 News - Rochester NY
+https://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767740907986808832/0ZZHw3_y_400x400.jpg" group-title="US - New York",WRGB - CBS 6 News - Albany NY
+https://dai.google.com/linear/hls/event/6GKh8yeyR5a90jlCBjNoWA/master.m3u8
+#EXTINF:-1,tvg-logo="" group-title="Broadcast News",CBS News New York
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/22884915-51e0-4c1c-85f0-deba1920ed20:ATL/master.m3u8
+
+
+
+#_NEW JERSEY
+
+
+
+
+#_OKLAHOMA
+#EXTINF:-1,tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-16x9.jpg" group-title="US - Oklahoma",KOKI - FOX23 - Tulsa OK
+https://amg02104-imagicommcommun-kokibreaking-ono-1gu89.amagi.tv/playlist/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/KTEN_logo_2013.png/175px-KTEN_logo_2013.png" group-title="US - Oklahoma",KTEN - ABC10 - NBC10 - Texoma CW - Ada OK
+http://kten-lh.akamaihd.net/i/KTEN_1079@5589/master.m3u8
+
+
+
+#_OREGON
+
+
+
+#_PENNSYLVANIA
+#EXTINF:-1,tvg-logo="https://itourcolumbiamontour.com/wp-content/uploads/2011/09/Bloomsburg-Fair-Logo.png" group-title="US - Pennsylvania",Bloomsburg Fair - Security Office
+https://s18.ipcamlive.com/streams/125f0859ad57ded9a/stream.m3u8
+#EXTINF:-1,tvg-logo="https://itourcolumbiamontour.com/wp-content/uploads/2011/09/Bloomsburg-Fair-Logo.png" group-title="US - Pennsylvania",Bloomsburg Fair - Grandstand Ticket Office
+https://s57.ipcamlive.com/streams/395f0f3535c6e2df7/stream.m3u8
+#EXTINF:-1,tvg-logo="http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/resources/inside_station/station_info/8791045_448x252.jpg" group-title="US - Pennsylvania",WPVI Now - ABC 6 Action News - Philadelphia PA
+https://d2h3lf2thu565a.cloudfront.net/out/v1/b650d95103bf46db803727172c1d2cf1/ADHOC-WPVI-01-cmaf-manifest/ADHOC-WPVI-01-index.m3u8
+#EXTINF:-1,tvg-logo="http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/resources/inside_station/station_info/8791045_448x252.jpg" group-title="US - Pennsylvania",WPVI Live Camera - ABC 6 Action News - Philadelphia PA
+https://d2h3lf2thu565a.cloudfront.net/out/v1/b650d95103bf46db803727172c1d2cf1/ADHOC-WPVI-01-cmaf-manifest/ADHOC-WPVI-01-index_2.m3u8
+#EXTINF:-1,tvg-logo="http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/resources/inside_station/station_info/8791045_448x252.jpg" group-title="US - Pennsylvania",WPVI Live Camera 2 - ABC 6 Action News - Philadelphia PA
+https://d1i339xboizr30.cloudfront.net/out/v1/ada84b03daf348f4896a39ac2a9f829d/ADHOC-WPVI-02-cmaf-manifest/ADHOC-WPVI-02-index.m3u8
+#EXTINF:-1,tvg-logo="https://i.vimeocdn.com/portrait/1608546_640x640" group-title="US - Pennsylvania",Temple University TV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+
+
+#_SOUTH CAROLINA
+#EXTINF:-1,tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png" group-title="US - South Carolina",BeachTV Live - Myrtle Beach & Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+
+
+
+#_TENNESSEE
+
+
+
+#_TEXAS
+
+
+
+#_UTAH
+#EXTINF:-1,tvg-logo="http://www.v6.media/images/Header/V6-logo.png" group-title="US - Utah",VTV Channel 6 - 6CTV - Vernal UT
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+
+
+#_VIRGINIA
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Screenshot_2016-05-21-15-36-09.png" group-title="US - Virginia",WVIR - NBC 29 News - Charlottesville VA
+https://dai.google.com/linear/hls/pa/event/LQrQlk1yTCWJeEpyP8w7Bw/stream/4d6a779a-9ff6-46c0-af16-e42df8f20b5a:TUL/master.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Wwbt_news.png" group-title="US - Virginia",WWBT - NBC12 - Richmond
+https://dai.google.com/linear/hls/pa/event/oQDBWiEBRLqnp2wfr21_SQ/stream/71a065bf-2b09-470f-8c31-85d7ee8bfffd:DLS/master.m3u8
+
+
+
+#_WASHINGTON
+#EXTINF:-1,tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="US - Washington",TVW - House of Representatives Channel
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="US - Washington",TVW - Senate Channel
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:SenateChannel_all/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="US - Washington",TVW-2 Broadcast
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/playlist.m3u8
